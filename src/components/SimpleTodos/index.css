@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.mainBgContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.BgContainer {
+  background-color: #ffc2a0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  background-size: cover;
+  align-self: center;
+}
+.todoListContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  background-color: #ffffff;
+  padding: 30px;
+}
+.heading {
+  font-family: 'Roboto';
+  color: #ff8542;
+  font-size: 30px;
+}
